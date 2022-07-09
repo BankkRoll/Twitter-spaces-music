@@ -84,7 +84,13 @@ Good now we have VoiceMeeter setup to get out Computer sound and input it as a m
 ### Buy Me A Coffee?
 * Thanks for the support! Donations appreciated but NOT required!
   - **ETH** - 0xfDE738A8a004F8D3554D33A40cA81AfD20f761bF
+* Follow me and share my work with others!!
 
+***
+
+#### Please do not duplicate and use my work as your own
+
+***
 
 [^1]: Youtube, spotify, sounboards, ect..
 [^2]: Cannot garuntee alternative software will work for this setup

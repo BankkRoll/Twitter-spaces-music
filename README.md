@@ -1,5 +1,9 @@
 # **Play Music Directly In Twitter Spaces From Your Computer**
 
+## MAC WILL NEED TO USE A ALTERATIVE , MAC COMPATABLE MOBILE EMULATOR LIKE - [NOX](https://www.bignox.com/)
+
+### [^3]: USE AT YOUR OWN RISK! If may occur, i am not responsiable for any malaware or virus's.
+
 I made this doc for the purpose of being able to play music directly into a twitter space super clear.
 
 There is no info on how to do this anywhere so please note you may exierence bugs, all support is appreacited.

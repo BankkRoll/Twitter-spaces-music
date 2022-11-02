@@ -14,6 +14,8 @@ Any questions please contact me via [twitter](https://twitter.com/bankkroll_eth)
 * [![Twitter](https://i.ibb.co/TWr5Cbg/imageedit-16-2368783890.gif)](https://twitter.com)  - [Twitter](https://twitter.com)
 
 * [![LDPlayer-site](https://i.ibb.co/WFBt2Hj/button-4.png)](https://www.ldplayer.net/) - [LDPlayer](https://www.ldplayer.net/) [^3] or another type of mobile device emulator.[^2] 
+
+# [Bluestacks](https://www.bluestacks.com/)
   
 
       ➤ This is how we will be able to achieve using the microphone feature on a computer.
